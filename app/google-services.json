@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "33491344130",
+    "firebase_url": "https://esp32-sensor-data-50f8c-default-rtdb.firebaseio.com",
+    "project_id": "esp32-sensor-data-50f8c",
+    "storage_bucket": "esp32-sensor-data-50f8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33491344130:android:1fad8e0d608ac0e732401b",
+        "android_client_info": {
+          "package_name": "com.example.blemakinesii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUcs10CliWj9RmIbD_Y6ijgI6oIoNsFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
